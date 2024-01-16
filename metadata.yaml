@@ -1,11 +1,16 @@
 _repo: Alakuloinen-meri-b-Runoja_72579
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Kaari, Anna
     gutenberg_agent_id: '56734'
     url: http://www.gutenberg.org/2009/agents/56734
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72579#Alakuloinen-meri-b-Runoja
 gutenberg_issued: '2024-01-01'
 gutenberg_type: Text
 identifiers:
